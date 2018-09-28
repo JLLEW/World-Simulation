@@ -1,0 +1,17 @@
+19
+10
+False
+0
+Lis 3 18 1
+Wilk 9 1 5
+Owca 4 8 0
+Antylopa 4 4 8
+Czlowiek 5 1 4
+CyberOwca 11 10 4
+Zolw 2 9 0
+WilczeJagody 99 8 3
+Trawa 0 3 4
+Mlecz 0 4 6
+Guarana 0 10 2
+BarszczSosnowskiego 10 5 7
+Trawa 0 4 4

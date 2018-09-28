@@ -17,16 +17,16 @@ To run the program just run GUI.py
 # Legend:
 
 #### Buttons
-"nowa tura" - evokes new tour
-"specjalna umiejetnosc" - activates human's special skill
-"zapisz" - save
-"wczytaj" - load
-"stworz swiat" - creates new world
+- "nowa tura" - evokes new tour
+- "specjalna umiejetnosc" - activates human's special skill
+- "zapisz" - save
+- "wczytaj" - load
+- "stworz swiat" - creates new world
 
 #### Human
 color: aqua
 power: 5
-priority: 4
+priority: 4 \n
 use arrows to move,
 
 ## Animals:

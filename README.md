@@ -12,9 +12,9 @@ one human that you control using arrows (direction of most animal's movement is 
 
 Unfortunately code is written in Polish language but it was required by my professor.
 Every action is described in console.
-To run the program just run ##### GUI.py
+To run the program just run GUI.py
 
-## Legend:
+# Legend:
 
 #### Buttons
 "nowa tura" - evokes new tour
@@ -29,7 +29,7 @@ power: 5
 priority: 4
 use arrows to move,
 
-### Animals:
+## Animals:
 
 #### Wolf
 color: gray
@@ -68,7 +68,7 @@ power: 3
 priority: 7
 Fox is smart. It will never go to the position where stronger organism is.
 
-### Plants
+## Plants
 
 #### Grass
 color: green

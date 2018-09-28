@@ -24,84 +24,84 @@ To run the program just run GUI.py
 - "stworz swiat" - creates new world
 
 #### Human
-color: aqua
-power: 5
-priority: 4 \n
-use arrows to move,
+- color: aqua
+- power: 5
+- priority: 4
+- use arrows to move,
 
 ## Animals:
 
 #### Wolf
-color: gray
-power: 9
-priority: 5
-no special skills
+- color: gray
+- power: 9
+- priority: 5
+- no special skills
 
 #### Antelope
-color:chocolate
-power: 4
-priority: 4
-jumps every 2 fields, may escape the attack with 50% probability
+- color:chocolate
+- power: 4
+- priority: 4
+- jumps every 2 fields, may escape the attack with 50% probability
 
 #### Sheep
-color: snow
-power: 4
-priority: 4
-no special skills
+- color: snow
+- power: 4
+- priority: 4
+- no special skills
 
 #### Cyber sheep
-color: aliceblue
-power: 11
-priority: 4
-it's life goal is to eliminate all hogweeds growing on the field. When that specific plant is growing on the field it moves towards the closest hogweed in order to eliminate it.
+- color: aliceblue
+- power: 11
+- priority: 4
+- it's life goal is to eliminate all hogweeds growing on the field. When that specific plant is growing on the field it moves towards the closest hogweed in order to eliminate it.
 When there is no hogweeds at all it behaves as usual sheep.
 
 #### Turtle
-color: olive
-power: 2
-priority: 1
-there is only 25% chance for this animal to move from its position
+- color: olive
+- power: 2
+- priority: 1
+- there is only 25% chance for this animal to move from its position
 
 #### Fox
-color: red
-power: 3
-priority: 7
-Fox is smart. It will never go to the position where stronger organism is.
+- color: red
+- power: 3
+- priority: 7
+- Fox is smart. It will never go to the position where stronger organism is.
 
 ## Plants
 
 #### Grass
-color: green
-power: 0
-priority: 0
-spread index: 15%
+- color: green
+- power: 0
+- priority: 0
+- spread index: 15%
 
 #### Dandelion
-color: yellow
-power: 0
-priority: 0
-spread index: 25%
-It tries 3 times to spread.
+- color: yellow
+- power: 0
+- priority: 0
+- spread index: 25%
+- It tries 3 times to spread.
 
 #### Wolf's blueberries
-color: yellow
-power: 99
-priority: 0
-spread index: 5%
-Every organism dies after consumption.
+- color: yellow
+- power: 99
+- priority: 0
+- spread index: 5%
+- Every organism dies after consumption.
 
 #### Guarana
-color: orange
-power: 0
-priority: 0
-spread index: 10%
-It increases animal's power by 3 after consumption.
+- color: orange
+- power: 0
+- priority: 0
+- spread index: 10%
+- It increases animal's power by 3 after consumption.
 
 #### hogweed
-color: black
-power: 10
-priority: 0
-spread index: 10%
-it kills every organism standing on the field next to it except cyber sheep.
+- color: black
+- power: 10
+- priority: 0
+- spread index: 10%
+- it kills every organism standing on the field next to it except cyber sheep.
 
 

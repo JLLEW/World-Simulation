@@ -1,6 +1,5 @@
 # simple world simulation with GUI
 
-### It was my first ever project in python.
 Every color represents different organism. There are different plants, animals and there is
 one human that you control using arrows (direction of most animal's movement is random). Plants don't move. Organisms take action by priority. Basic rules:
 - when there is a collision of diffent kind animals, stronger kills weaker one,
